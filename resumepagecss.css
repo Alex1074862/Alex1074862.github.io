@@ -1,0 +1,33 @@
+@charset "utf-8";
+.resumebody {
+	padding-top: 81px;
+	padding-right: 81px;
+	padding-bottom: 81px;
+	padding-left: 81px;
+	color: #2A3340;
+	background-color: white;
+	margin-top: 37px;
+	margin-right: 37px;
+	margin-bottom: 37px;
+	margin-left: 37px;
+}
+.body .resumeHeader h1 {
+}
+.body .resumeHeader {
+	color: white;
+	background-color: #2A3340;
+	margin-top: 3px;
+	margin-right: 984px;
+	margin-bottom: 3px;
+	margin-left: 3px;
+	text-align: center;
+}
+
+
+.nav nav .linkText {
+	color: white;
+}
+
+.body {
+	background-color: #BF8C6F;
+}
